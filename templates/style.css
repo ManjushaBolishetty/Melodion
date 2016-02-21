@@ -1,0 +1,13 @@
+<style type="text/css">
+    #main
+    {
+    position:relative;
+        width:200px;
+    }
+
+    .floatdiv
+    {
+    float:left;
+        width=80px
+    }
+</style>

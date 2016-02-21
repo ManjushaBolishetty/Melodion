@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="col-md-6">
+<div id="accordion" style="margin-left:60px">
+<h3>Song Title</h3>
+	<div>
+		<p>
+		<ul>
+		<li>{{ Song_Name }} </li>
+		</ul></p>
+	</div>
+
+<h3>Song Artist</h3>
+	<div>
+		<p><ul>
+		<li>{{ Artist }} </li>
+		</p>
+		</ul>
+	</div>
+
+<h3>Song Tempo </h3>
+	<div>
+		<p><ul>
+		<li>{{ Tempo }} BPM</li>
+		</ul>
+		</p>
+		</ul>
+	</div>
+<h3>Song Key </h3>
+	<div>
+		<p><ul>
+		<li>{{ Key }}</li>
+		</ul>
+		</p>
+		</ul>
+	</div>
+<h3>Notes in Key </h3>
+	<div>
+		<p><ul>
+		<li>{{ Scale_Notes }}</li>
+		</ul>
+		</p>
+		</ul>
+	</div>
+<h3>Notes in Chords </h3>
+	<div>
+		<p>{% if Scale_Chords %}
+		<ul>
+		{% for chord in Scale_Chords %}
+		<li>{{ chord }}</li>
+		{% endfor %}
+		</ul>
+		{% endif %}
+		</p>
+		</ul>
+	</div>
+<h3>Song Energy </h3>
+	<div>
+		<p><ul>
+		<li>{{ Energy }}</li>
+		</ul>
+		</p>
+		</ul>
+	</div>
+
+<h3>Song Time Signature </h3>
+	<div>
+		<p><ul>
+		<li>{{ Time_signature }}</li>
+		</ul>
+		</p>
+		</ul>
+	</div>
+</div>
+<!--<ul>
+<li> Song Title:  {{ Song_Name }} </li>
+<li> Song Artist:  {{ Artist }} </li>
+<li> Song Tempo:  {{ Tempo }} </li>
+<li> Song Key:  {{ Key }} </li>
+<li> Song Energy:  {{ Energy }} </li>
+<li> Song Time Signature:  {{ Time_signature }} </li>
+</ul>-->
+{% endblock %}

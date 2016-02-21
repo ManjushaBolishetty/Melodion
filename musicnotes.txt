@@ -1,0 +1,283 @@
+notelist=['C','C#','D','Eb','E','F','F#','G','G#','A','A#','B']
+modelist=['Minor','Major']
+
+C minor
+pitches C, D, E♭, F, G, A♭, and B♭
+Chords
+C minor chord, and contains the notes C, Eb, and G.
+D diminished chord, and contains the notes D, F, and Ab.
+Eb major chord, and contains the notes Eb, G, and Bb.
+F minor chord, and contains the notes F, Ab, and C.
+G minor chord, and contains the notes G, Bb, and D.
+Ab major chord, and contains the notes Ab, C, and Eb.
+Bb major chord, and contains the notes Bb, D, and F.
+
+C Major
+Chords: 
+The C major chord I is the C major chord, and contains the notes C, E, and G.
+he C major chord ii is the D minor chord, and contains the notes D, F, and A.
+The C major chord iii is the E minor chord, and contains the notes E, G, and B.
+The C major chord IV is the F major chord, and contains the notes F, A, and C.
+The C major chord V is the G major chord, and contains the notes G, B, and D.
+The C major chord vi is the A minor chord, and contains the notes A, C, and E.
+he C major chord viio is the B diminished chord, and contains the notes B, D, and F.
+
+C# Minor
+Pitches :  C♯, D♯, E, F♯, G♯, A, and B
+Chords: 
+The C minor chord i is the C minor chord, and contains the notes C, Eb, and G.
+The C minor chord iio is the D diminished chord, and contains the notes D, F, and Ab.
+The C minor chord III is the Eb major chord, and contains the notes Eb, G, and Bb.
+The C minor chord iv is the F minor chord, and contains the notes F, Ab, and C.
+The C minor chord v is the G minor chord, and contains the notes G, Bb, and D.
+The C minor chord VI is the Ab major chord, and contains the notes Ab, C, and Eb.
+The C minor chord VII is the Bb major chord, and contains the notes Bb, D, and F.
+
+C# Major
+Pitches:  C♯, D♯, E♯, F♯, G♯, A♯, and B♯
+Chords: 
+The C major chord I is the C major chord, and contains the notes C, E, and G.
+The C major chord ii is the D minor chord, and contains the notes D, F, and A.
+The C major chord iii is the E minor chord, and contains the notes E, G, and B.
+The C major chord IV is the F major chord, and contains the notes F, A, and C.
+The C major chord V is the G major chord, and contains the notes G, B, and D.
+The C major chord vi is the A minor chord, and contains the notes A, C, and E.
+The C major chord viio is the B diminished chord, and contains the notes B, D, and F.
+
+D minor
+Chords: D, E, F, G, A, B♭, and C.
+The D minor chord i is the D minor chord, and contains the notes D, F, and A.
+The D minor chord iio is the E diminished chord, and contains the notes E, G, and Bb.
+The D minor chord III is the F major chord, and contains the notes F, A, and C.
+The D minor chord iv is the G minor chord, and contains the notes G, Bb, and D.
+The D minor chord v is the A minor chord, and contains the notes A, C, and E.
+The D minor chord VI is the Bb major chord, and contains the notes Bb, D, and F.
+The D minor chord VII is the C major chord, and contains the notes C, E, and G.
+
+D Major
+pitches : D, E, F♯, G, A, B, and C♯
+Chords: 
+The D major chord I is the D major chord, and contains the notes D, F#, and A.
+The D major chord ii is the E minor chord, and contains the notes E, G, and B.
+The D major chord iii is the F# minor chord, and contains the notes F#, A, and C#.
+The D major chord IV is the G major chord, and contains the notes G, B, and D.
+The D major chord V is the A major chord, and contains the notes A, C#, and E.
+The D major chord vi is the B minor chord, and contains the notes B, D, and F#.
+The D major chord viio is the C# diminished chord, and contains the notes C#, E, and G.
+
+F Minor 
+Pitches/  F, G, A♭, B♭, C, D♭, and E♭
+Chords: 
+The F minor chord i is the F minor chord, and contains the notes F, Ab, and C.
+The F minor chord iio is the G diminished chord, and contains the notes G, Bb, and Db.
+The F minor chord III is the Ab major chord, and contains the notes Ab, C, and Eb.
+The F minor chord iv is the Bb minor chord, and contains the notes Bb, Db, and F.
+The F minor chord v is the C minor chord, and contains the notes C, Eb, and G.
+The F minor chord VI is the Db major chord, and contains the notes Db, F, and Ab.
+The F minor chord VII is the Eb major chord, and contains the notes Eb, G, and Bb.
+
+
+
+F Major
+ pitches/ Notes F, G, A, B♭, C, D, and E.
+Chords.
+F major chord, and contains the notes F, A, and C.
+G minor chord, and contains the notes G, Bb, and D.
+A minor chord, and contains the notes A, C, and E.
+Bb major chord, and contains the notes Bb, D, and F.
+ C major chord, and contains the notes C, E, and G.
+ D minor chord, and contains the notes D, F, and A.
+E diminished chord, and contains the notes E, G, and Bb.
+
+
+EB Minor 
+Pitches:  E♭, F, G♭, A♭, B♭, C♭, and D♭
+Chords:
+The E-flat minor chord i is the Eb minor chord, and contains the notes Eb, Gb, and Bb.
+The E-flat minor chord iio is the F diminished chord, and contains the notes F, Ab, and Cb.
+The E-flat minor chord III is the Gb major chord, and contains the notes Gb, Bb, and Db.
+The E-flat minor chord iv is the Ab minor chord, and contains the notes Ab, Cb, and Eb.
+The E-flat minor chord v is the Bb minor chord, and contains the notes Bb, Db, and F.
+The E-flat minor chord VI is the Cb major chord, and contains the notes Cb, Eb, and Gb.
+The E-flat minor chord VII is the Db major chord, and contains the notes Db, F, and Ab.
+
+EB Major 
+Pitches:  E♭, F, G, A♭, B♭, C, and D
+Chords
+The E-flat major chord I is the Eb major chord, and contains the notes Eb, G, and Bb.
+The E-flat major chord ii is the F minor chord, and contains the notes F, Ab, and C
+The E-flat major chord iii is the G minor chord, and contains the notes G, Bb, and D.
+The E-flat major chord IV is the Ab major chord, and contains the notes Ab, C, and Eb.
+The E-flat major chord V is the Bb major chord, and contains the notes Bb, D, and F.
+The E-flat major chord vi is the C minor chord, and contains the notes C, Eb, and G.
+The E-flat major chord viio is the D diminished chord, and contains the notes D, F, and Ab.
+
+E Minor
+ pitches E, F♯,G, A, B, C, and D
+Chords
+The E minor chord i is the E minor chord, and contains the notes E, G, and B.
+The E minor chord iio is the F# diminished chord, and contains the notes F#, A, and C.
+The E minor chord III is the G major chord, and contains the notes G, B, and D.
+The E minor chord iv is the A minor chord, and contains the notes A, C, and E.
+The E minor chord v is the B minor chord, and contains the notes B, D, and F#.
+The E minor chord VI is the C major chord, and contains the notes C, E, and G.
+The E minor chord VII is the D major chord, and contains the notes D, F#, and A.
+
+E Major
+Pitches: E, F♯, G♯, A, B, C♯, and D♯
+Chords: 
+The E major chord I is the E major chord, and contains the notes E, G#, and B.
+The E major chord ii is the F# minor chord, and contains the notes F#, A, and C#.
+The E major chord iii is the G# minor chord, and contains the notes G#, B, and D#.
+The E major chord IV is the A major chord, and contains the notes A, C#, and E.
+The E major chord V is the B major chord, and contains the notes B, D#, and F#.
+The E major chord vi is the C# minor chord, and contains the notes C#, E, and G#.
+The E major chord viio is the D# diminished chord, and contains the notes D#, F#, and A.
+
+F Minor
+F, G, A♭, B♭, C, D♭, and E♭
+Chords:
+The F minor chord i is the F minor chord, and contains the notes F, Ab, and C.
+The F minor chord iio is the G diminished chord, and contains the notes G, Bb, and Db.
+The F minor chord III is the Ab major chord, and contains the notes Ab, C, and Eb.
+The F minor chord iv is the Bb minor chord, and contains the notes Bb, Db, and F.
+The F minor chord v is the C minor chord, and contains the notes C, Eb, and G.
+The F minor chord VI is the Db major chord, and contains the notes Db, F, and Ab.
+The F minor chord VII is the Eb major chord, and contains the notes Eb, G, and Bb.
+
+F Major
+pitches F, G, A, B♭, C, D, and E.
+The F major chord I is the F major chord, and contains the notes F, A, and C.
+The F major chord ii is the G minor chord, and contains the notes G, Bb, and D.
+The F major chord iii is the A minor chord, and contains the notes A, C, and E.
+The F major chord IV is the Bb major chord, and contains the notes Bb, D, and F.
+The F major chord V is the C major chord, and contains the notes C, E, and G.
+The F major chord vi is the D minor chord, and contains the notes D, F, and A.
+The F major chord viio is the E diminished chord, and contains the notes E, G, and Bb.
+
+
+F# Minor 
+ F-sharp, consisting of the pitches F♯, G♯, A, B, C♯, D, and E.
+Chords
+The F-sharp minor chord i is the F# minor chord, and contains the notes F#, A, and C#.
+The F-sharp minor chord iio is the G# diminished chord, and contains the notes G#, B, and D.
+The F-sharp minor chord III is the A major chord, and contains the notes A, C#, and E.
+The F-sharp minor chord iv is the B minor chord, and contains the notes B, D, and F#.
+The F-sharp minor chord v is the C# minor chord, and contains the notes C#, E, and G#.
+The F-sharp minor chord VI is the D major chord, and contains the notes D, F#, and A.
+The F-sharp minor chord VII is the E major chord, and contains the notes E, G#, and B.
+
+F# Major
+ F♯, consisting of the pitches F♯, G♯, A♯, B, C♯, D♯, and E♯.
+
+Chords
+The F-sharp major chord I is the F# major chord, and contains the notes F#, A#, and C#.
+The F-sharp major chord ii is the G# minor chord, and contains the notes G#, B, and D#.
+The F-sharp major chord iii is the A# minor chord, and contains the notes A#, C#, and E#.
+The F-sharp major chord IV is the B major chord, and contains the notes B, D#, and F#.
+The F-sharp major chord V is the C# major chord, and contains the notes C#, E#, and G#.
+The F-sharp major chord vi is the D# minor chord, and contains the notes D#, F#, and A#.
+The F-sharp major chord viio is the E# diminished chord, and contains the notes E#, G#, and B.
+
+
+G Minor
+G minor is a minor scale based on G, consisting of the pitches G, A, B♭, C, D, E♭, and F.
+Chords
+The G minor chord i is the G minor chord, and contains the notes G, Bb, and D.
+The G minor chord iio is the A diminished chord, and contains the notes A, C, and Eb.
+The G minor chord III is the Bb major chord, and contains the notes Bb, D, and F.
+The G minor chord iv is the C minor chord, and contains the notes C, Eb, and G.
+The G minor chord v is the D minor chord, and contains the notes D, F, and A.
+The G minor chord VI is the Eb major chord, and contains the notes Eb, G, and Bb.
+The G minor chord VII is the F major chord, and contains the notes F, A, and C.
+
+G Major
+G major (or the key of G) is a major scale based on G, with the pitches G, A, B, C, D, E, and F♯.
+Chords
+The G major chord I is the G major chord, and contains the notes G, B, and D.
+The G major chord ii is the A minor chord, and contains the notes A, C, and E.
+The G major chord iii is the B minor chord, and contains the notes B, D, and F#.
+The G major chord IV is the C major chord, and contains the notes C, E, and G.
+The G major chord V is the D major chord, and contains the notes D, F#, and A.
+The G major chord vi is the E minor chord, and contains the notes E, G, and B.
+The G major chord viio is the F# diminished chord, and contains the notes F#, A, and C.
+
+G# Minor 
+G-sharp minor is a minor scale based on G♯, consisting of the pitches G♯, A♯, B, C♯, D♯, E, and F♯.
+Chords
+The G-sharp minor chord i is the G# minor chord, and contains the notes G#, B, and D#.
+he G-sharp minor chord iio is the A# diminished chord, and contains the notes A#, C#, and E.
+The G-sharp minor chord III is the B major chord, and contains the notes B, D#, and F#.
+The G-sharp minor chord iv is the C# minor chord, and contains the notes C#, E, and G#.
+The G-sharp minor chord v is the D# minor chord, and contains the notes D#, F#, and A#.
+The G-sharp minor chord VI is the E major chord, and contains the notes E, G#, and B.
+The G-sharp minor chord VII is the F# major chord, and contains the notes F#, A#, and C#.
+
+G# Major
+G-sharp major is a major scale based on the musical note G-sharp, consisting of the pitches G♯, A♯, B♯, C♯, D♯, E♯ and Fdouble sharp. 
+Chords
+The G-sharp major chord I is the G# major chord, and contains the notes G#, B#, and D#.
+The G-sharp major chord ii is the A# minor chord, and contains the notes A#, C#, and E#.
+The G-sharp major chord iii is the B# minor chord, and contains the notes B#, D#, and F##.
+The G-sharp major chord IV is the C# major chord, and contains the notes C#, E#, and G#.
+The G-sharp major chord V is the D# major chord, and contains the notes D#, F##, and A#.
+The G-sharp major chord vi is the E# minor chord, and contains the notes E#, G#, and B#.
+The G-sharp major chord viio is the F## diminished chord, and contains the notes F##, A#, and C#.
+
+
+A Minor 
+A minor (abbreviated Am) is a minor scale based on A, consisting of the pitches A, B, C, D, E, F, and G.
+
+The A minor chord i is the A minor chord, and contains the notes A, C, and E.
+The A minor chord iio is the B diminished chord, and contains the notes B, D, and F.
+The A minor chord III is the C major chord, and contains the notes C, E, and G.
+The A minor chord iv is the D minor chord, and contains the notes D, F, and A.
+The A minor chord v is the E minor chord, and contains the notes E, G, and B.
+The A minor chord VI is the F major chord, and contains the notes F, A, and C.
+The A minor chord VII is the G major chord, and contains the notes G, B, and D.
+
+A Major
+A major (or the key of A) is a major scale based on A, with the pitches A, B, C♯, D, E, F♯, and G♯
+
+the A major chord I is the A major chord, and contains the notes A, C#, and E.
+The A major chord ii is the B minor chord, and contains the notes B, D, and F#.
+The A major chord iii is the C# minor chord, and contains the notes C#, E, and G#.
+The A major chord IV is the D major chord, and contains the notes D, F#, and A.
+The A major chord V is the E major chord, and contains the notes E, G#, and B.
+The A major chord vi is the F# minor chord, and contains the notes F#, A, and C#.
+The A major chord viio is the G# diminished chord, and contains the notes G#, B, and D.
+
+Not sure A#
+A# Minor
+The A♯ minor scale has pitches A♯, B♯, C♯, D♯, E♯, F♯, and G♯. 
+
+Not sure 
+
+A# Major
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+B Minor
+B minor is a minor scale consisting of the pitches B, C♯, D, E, F♯, G, and A
+
+The B minor chord i is the B minor chord, and contains the notes B, D, and F#.
+The B minor chord iio is the C# diminished chord, and contains the notes C#, E, and G.
+The B minor chord III is the D major chord, and contains the notes D, F#, and A.
+The B minor chord iv is the E minor chord, and contains the notes E, G, and B.
+The B minor chord v is the F# minor chord, and contains the notes F#, A, and C#.
+The B minor chord VI is the G major chord, and contains the notes G, B, and D.
+The B minor chord VII is the A major chord, and contains the notes A, C#, and E.
+
+B Major 
+The pitches B, C♯, D♯, E, F♯, G♯, and A♯ are all part of the B major scale.
+
+The B major chord I is the B major chord, and contains the notes B, D#, and F#.
+The B major chord ii is the C# minor chord, and contains the notes C#, E, and G#.
+The B major chord iii is the D# minor chord, and contains the notes D#, F#, and A#.
+The B major chord IV is the E major chord, and contains the notes E, G#, and B.
+The B major chord V is the F# major chord, and contains the notes F#, A#, and C#.
+The B major chord vi is the G# minor chord, and contains the notes G#, B, and D#.
+The B major chord viio is the A# diminished chord, and contains the notes A#, C#, and E.
+
+
+
+

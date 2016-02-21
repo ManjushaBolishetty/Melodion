@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="row">
+        <div class="col-md-3">
+		<div class="panel panel-warning">
+			<div class="panel-heading">Song Title</div>
+			<div class="panel-body">
+			<ul>
+			<li>{{ Song_Name }} </li>
+			</ul>
+			</div>
+		</div>
+		</div>
+
+		<div class="col-md-3">
+		<div class="panel panel-warning">
+			<div class="panel-heading">Song Key</div>
+			<div class="panel-body">
+			<ul>
+			<li>{{ Key }} </li>
+			</ul>
+			</div>
+			</div>		
+		</div>
+
+        <div class="col-md-3">
+        </div>
+</div>
+<div class="row">
+	<div class="col-md-3">
+		<div class="panel panel-warning">
+			<div class="panel-heading">Song Notes</div>
+			<div class="panel-body">
+			<ul>
+			<li>{{ Scale_Notes }} </li>
+			</ul>
+			</div>
+			</div>
+       		 </div>
+	</div>
+	<div class="col-md-3">
+			<div class="panel panel-warning">
+			<div class="panel-heading">Song Chords</div>
+			<div class="panel-body">
+			<ul>
+			<li>{{ Scale_Chords }} </li>
+			</ul>
+			</div>
+			</div>
+			</div>
+	</div>
+</div>

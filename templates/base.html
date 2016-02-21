@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en" class="no-js">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+<link href='http://fonts.googleapis.com/css?family=Ceviche+One' rel='stylesheet' type='text/css'>
+{% load staticfiles %}
+<link href="{% static "stylesheet.css" %}" rel='stylesheet' type='text/css'>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<meta charset="utf-8">
+<title>Melodion</title>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+<!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+<script>
+	$(function() {
+		$( "#accordion" ).accordion({
+			collapsible: true
+		});
+	});
+</script>
+<link rel="shortcut icon" href="{{ STATIC_URL }}favicon.ico"> 
+<!--<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}default.css" />-->
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}component.css" />
+<script src="{{ STATIC_URL }}modernizr.custom.js"></script>
+<title> Melodion </title>
+</head>
+
+<body>
+
+<div class="container">
+<div class="page-header">
+<h1> Melodion </h1>
+</div>
+<div class="row">
+<div class="col-md-6">
+	<div id="sb-search" class="sb-search">
+		<form action="/search/" method="post">
+		{% csrf_token %}
+		<input class="sb-search-input" placeholder="Enter your song title.." type="text" value="" name="SongTitle" id="search">
+		<input class="sb-search-submit" type="submit" value="">
+		<span class="sb-icon-search"></span>
+		</form>
+	</div>
+
+
+
+<!--<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+		<form class="navbar-form navbar-left" role="search" action="/search/" method="post"> -->
+			
+				<!--<p> Enter a song title: </p>
+				<div class="form-group">
+				<input type="text" class="form-control" placeholder="Enter a song title" name="SongTitle">
+				</div>
+				<div class="col-md-12">
+				<button type="submit" class="btn btn-warning">Search</button>
+				<!--</div>
+		</form>
+	</div>-->
+  </div>
+ <!--</nav>-->
+ </div>
+ </div>
+  
+{% block content %}
+   
+   
+{% endblock %}
+ </div>
+<script src="{{ STATIC_URL }}classie.js"></script>
+<script src="{{ STATIC_URL }}uisearch.js"></script>
+<script>
+	new UISearch( document.getElementById( 'sb-search' ) );
+</script>   
+</body>
+</html>
+
